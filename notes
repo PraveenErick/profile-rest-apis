@@ -1,3 +1,0 @@
-git config --gobal user.email ""
-git config --gobal user.name ""
-git init
